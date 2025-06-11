@@ -2,7 +2,7 @@
 
 <h3 align="center">Projeto Spotify</h3>
 
-<p align="center">Tarefa da matéria de Interação Humano-Computador e.</p>
+<p align="center">Tarefa da matéria de Interação Humano-Computador.</p>
 
 <br>
 
